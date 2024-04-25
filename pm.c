@@ -233,7 +233,7 @@ void menu(){
         }
 
 
-     }while(menu != 0);
+     }while(menu_de_opcao != 0);
 
 
 }
