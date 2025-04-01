@@ -5,7 +5,7 @@
 /*                   PROGRAMA PARA O CALCULO DO PRECO MEDIO 
  *  -----------------------------------------------------------------------------------
  *  Este código em C e um sistema simples para calcular o preço médio de ações, 
- *  tanto para novas aquisições quanto para ações já presentes na carteira do usuário. 
+ *  tanto para novas aquisições quanto para ações já presentes em carteira do usuário. 
  *  -----------------------------------------------------------------------------------
  *  author: Felipe Alexandre
  *  versao 0.1
